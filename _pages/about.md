@@ -12,37 +12,12 @@ As a PhD student, I love learning and exploring, and I wanted to create a place 
 
 About Me
 ======
-Currently a PhD student in the University of Washington Mechanical Enginering department, I also hold a B.S. in Mechanical Engineering from UW.  As an undergrad I took part in a handful of engineering and non-engineering activities through clubs, internships, and other opportunities that all helped me grow as a person.  This includes working on robotics, automotive vehicles, unmanned aerial vehicles (UAVs), and much more.  The field that I realized I enjoyed the most was fluid dynamics, and thus I proudly call myself one.  Something about the complex Navier-Stokes equations and the numerous unexplained fluid phenomena absolutely fascinate me.  It might be an innate stubbornness to want to know the "truth" but hopefully one day I can help unveil the truth.  
+Currently a PhD student in the University of Washington Mechanical Enginering department, I also hold a B.S. in Mechanical Engineering from UW.  As an undergrad I took part in a handful of engineering and non-engineering activities through clubs, internships, and other opportunities that all helped me grow as a person.  This includes working on robotics, automotive vehicles, unmanned aerial vehicles (UAVs), and much more.  The field that I realized I enjoyed the most was fluid dynamics, and thus I proudly call myself one.  Something about the complex Navier-Stokes equations and the numerous unexplained fluid phenomena absolutely fascinate me.  It might be an innate stubbornness to want to know the "truth" but this has always helped drive me to learn.  Overall, I love research and development (R&D).  The process of having a theory, conducting experiments, learning through these experiments, iterating, developing and prototyping a product, and everything that comes with R&D is what gets me up (almost) everyday.  
 
-An Engineering of Many Hats
+Many Hats
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+I can only do what I do today because of the many different opportunities that I have had and the experiences with them.  Whether it is automotive structures, robotics, or drones, I've done extensive mechanical design through various computer-aided-design (CAD) softwares including Solidworks, Siemens NX, and Fusion 360.  Equally important, I've arguably done even more mechanical analysis through finite element analysis (FEA) and computation fluid dynamics (CFD).  I traditionally use ANSYS products for all my FEA and CFD but I have experience with Solidworks's FEA features and Siemens Star-CCM+.  Some of you may be reading this only because of my CFD Youtube videos.  While these are just some of the most powerful engineering skills that I have worked on, there's many other hats that I have worn that include because a leader, an advocate, and a friend.  There's only one of me so in reaching some goal of mine, I recognize that it is important to not only use all the engineering skills that I have acquired, but to use the interpersonal skills, too.
 
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
-
-Create content & metadata
-------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
-
-**Markdown generator**
-
-I have also created [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the academicpages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
-
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
-
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
-
-For more info
-------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+Fun Stuff
+======
+Outside of my engineering work, there's an endless amount of engineering things that I like doing on the side.  Some of these side projects include CNC machining, woodworking, building cool DIY projects, and more.  Isn't CNC machining a bit much for a side project?  Yes, probably but I bought a desktop CNC machining so I machine a lot of aluminum things and wood things right in my living room.  It's actually made me a much better design engineering in terms of being able to design something to be manufactured.  All of these side projects including smart mirrors, arduino systems, mini-robots, have expanded my skillset while allowing me to work on something different.  As a little kid, I loved playing with Legos, and these side projects give me just as much joy, if not more.
