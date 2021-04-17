@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I love learning and exploring, and I wanted to create a place that I can document, highlight, and share.  I've been fortunate to work on a wide range of mechanical, aerospace, and data science projects, and I enjoy sharing my experiences and lessons.  While I aim to keep this website about my engineering research, interests, and hobbies, I want to maintain a personal approach.
+I love learning and exploring, and I wanted to create a place that I can document, highlight, and share some of my experiences.  I've been fortunate to work on a wide range of mechanical, aerospace, and data science projects, and I enjoy sharing my experiences and lessons.  While I aim to keep this website about my engineering research, interests, and hobbies, I want to maintain a personal approach.
 
 About Me
 ======
