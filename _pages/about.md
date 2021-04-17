@@ -8,15 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-As a PhD student, I am constantly learning and exploring, and I wanted to create a place that I can document, highlight, and share.  I aim to keep this website about my engineering research, interests, and hobbies.  
+As a PhD student, I love learning and exploring, and I wanted to create a place that I can document, highlight, and share.  I've been fortunate to work on a wide range of mechanical, aerospace, and data science projects, and I enjoy sharing my experiences and lessons.  While I aim to keep this website about my engineering research, interests, and hobbies, I want to maintain a personal approach.
 
-A data-driven personal website
+About Me
 ======
-Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+Currently a PhD student in the University of Washington Mechanical Enginering department, I also hold a B.S. in Mechanical Engineering from UW.  As an undergrad I took part in a handful of engineering and non-engineering activities through clubs, internships, and other opportunities that all helped me grow as a person.  This includes working on robotics, automotive vehicles, unmanned aerial vehicles (UAVs), and much more.  The field that I realized I enjoyed the most was fluid dynamics, and thus I proudly call myself one.  Something about the complex Navier-Stokes equations and the numerous unexplained fluid phenomena absolutely fascinate me.  It might be an innate stubbornness to want to know the "truth" but hopefully one day I can help unveil the truth.  
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
-
-Getting started
+An Engineering of Many Hats
 ======
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
 1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
