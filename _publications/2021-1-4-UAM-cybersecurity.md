@@ -4,7 +4,7 @@ collection: publications
 
 permalink: /publication/2021-1-4-uam-cybersecurity
 
-excerpt: ' This paper presents a review of several known cybersecurity vulnerabilities and previous attacks associated with UAVs and aircraft's core communication systems. '
+excerpt: 'With numerous known vulnerabilities in UAVs and commercial aircraft, manufacturers have not addressed cybersecurity in the scope of urban air mobility...'
 
 date: 2021-1-4
 
