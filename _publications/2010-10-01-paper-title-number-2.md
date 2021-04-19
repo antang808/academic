@@ -1,7 +1,7 @@
 ---
 title: "Paper Title Number 2"
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2
+permalink: http://iopscience.iop.org/article/10.1088/1361-6463/abec0b/meta?casa_token=Zf9EZriiqb8AAAAA:wmO9Yi2tQyLhzyaQmdjZ95ItTn1JpWiAw7gZ2xpPapGBUhRCNgYMwSKxEacWasWYJ9Kl2aVpO9r0bRXZkik
 excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
 date: 2010-10-01
 venue: 'Journal 1'
