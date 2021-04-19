@@ -15,5 +15,3 @@ paperurl: 'https://arc.aiaa.org/doi/abs/10.2514/6.2021-0773'
 ---
 
 [Download paper here](https://github.com/antang808/antang808.github.io/files/6334680/A.Review.of.Cybersecurity.Vulnerabilities.for.UAM.Final.Draft.2.pdf)
-
-
