@@ -10,7 +10,7 @@ date: 2021-1-4
 
 venue: 'AIAA SciTech 2021 Forum'
 
-paperurl: 'https://iopscience.iop.org/article/10.1088/1361-6463/abec0b/meta?casa_token=Zf9EZriiqb8AAAAA:wmO9Yi2tQyLhzyaQmdjZ95ItTn1JpWiAw7gZ2xpPapGBUhRCNgYMwSKxEacWasWYJ9Kl2aVpO9r0bRXZkik'
+paperurl: 'https://arc.aiaa.org/doi/abs/10.2514/6.2021-0773'
 
 ---
 
