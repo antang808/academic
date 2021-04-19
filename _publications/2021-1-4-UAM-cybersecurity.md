@@ -4,7 +4,7 @@ collection: publications
 
 permalink: /publication/2021-1-4-uam-cybersecurity
 
-excerpt: 'Recent developments of high-powered unmanned aerial vehicles (UAVs) have allowed for urban air mobility (UAM) to become a reality. While these flying cars' propulsive technology has almost become economically viable, the infrastructure to allow these vehicles to operate in an urban environment is still lacking. With numerous known vulnerabilities in UAVs and commercial aircraft, manufacturers have not addressed cybersecurity in the scope of urban air mobility...'
+excerpt: 'With numerous known vulnerabilities in UAVs and commercial aircraft, manufacturers have not addressed cybersecurity in the scope of urban air mobility...'
 
 date: 2021-3-31
 
