@@ -6,11 +6,9 @@ excerpt: 'Dielectric barrier discharge (DBD) plasma actuators with an asymmetric
 date: 2021-3-31
 venue: 'Journal of Physics D: Applied Physics'
 paperurl: 'https://iopscience.iop.org/article/10.1088/1361-6463/abec0b/meta'
-citation: 'A. Tang, R. S. Vaddi, A. Mamishev, and I. V. Novosselov, "Empirical relations for discharge current and momentum injection in dielectric barrier discharge plasma actuators," Journal of Physics D: Applied Physics, vol. 54, no. 24, p. 245204, 2021.[Tang Journal of Physics.pdf]
-'
----
-This paper is about the number 1. The number 2 is left for future work.
+
+citation: 'Tang, A.; Vaddi, R. S.; Mamishev, A.; Novosselov, I. V., Empirical relations for discharge current and momentum injection in dielectric barrier discharge plasma actuators. Journal of Physics D: Applied Physics 2021, 54 (24), 245204.'
 
 [Download paper here](https://github.com/antang808/antang808.github.io/files/6334283/Tang.Journal.of.Physics.pdf)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Recommended citation: Tang, A.; Vaddi, R. S.; Mamishev, A.; Novosselov, I. V., Empirical relations for discharge current and momentum injection in dielectric barrier discharge plasma actuators. Journal of Physics D: Applied Physics 2021, 54 (24), 245204.
