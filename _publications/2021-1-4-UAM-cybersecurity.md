@@ -4,7 +4,7 @@ collection: publications
 
 permalink: /publication/2021-1-4-uam-cybersecurity
 
-excerpt: 'Recent developments of high-powered unmanned aerial vehicles have allowed for urban air mobility to become a reality. While these flying cars' propulsive technology has almost become economically viable, the infrastructure to allow these vehicles to operate in an urban environment is still lacking...'
+excerpt: ' This paper presents a review of several known cybersecurity vulnerabilities and previous attacks associated with UAVs and aircraft's core communication systems. Analyzing current solutions to each threat and incorporating early concepts for UAM, this paper then presents a basic cybersecurity framework featuring a blockchain-based PKI with secondary navigation systems to allow for the development of secure airspace.'
 
 date: 2021-1-4
 
