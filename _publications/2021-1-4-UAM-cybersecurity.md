@@ -6,9 +6,9 @@ permalink: /publication/2021-1-4-uam-cybersecurity
 
 excerpt: 'With numerous known vulnerabilities in UAVs and commercial aircraft, manufacturers have not addressed cybersecurity in the scope of urban air mobility...'
 
-date: 2021-3-31
+date: 2021-1-4
 
-venue: 'Journal of Physics D: Applied Physics'
+venue: 'AIAA SciTech 2021 Forum'
 
 paperurl: 'https://iopscience.iop.org/article/10.1088/1361-6463/abec0b/meta?casa_token=Zf9EZriiqb8AAAAA:wmO9Yi2tQyLhzyaQmdjZ95ItTn1JpWiAw7gZ2xpPapGBUhRCNgYMwSKxEacWasWYJ9Kl2aVpO9r0bRXZkik'
 
