@@ -11,13 +11,13 @@ main:
     
         
   - title: "Other Papers"
-    url: /Papers/
+    url: /papers/
     
   - title: "CV"
     url: /cv/
     
   - title: "Hobbies"
-    url: /Hobbies/
+    url: /hobbies/
     
   # - title: "Guide"
     # url: /markdown/
