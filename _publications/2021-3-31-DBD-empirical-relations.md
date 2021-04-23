@@ -2,7 +2,7 @@
 title: "Empirical relations for discharge current and momentum injection in dielectric barrier discharge plasma actuators"
 collection: publications
 
-permalink: /publication/2021-3-31-DBD-empirical-relations
+#permalink: /publication/2021-3-31-DBD-empirical-relations
 
 excerpt: 'Dielectric barrier discharge (DBD) plasma actuators with an asymmetric, straight edge electrode configuration generate a wall-bounded jet without moving parts. Mechanistic description of the interaction between the Coulombic forces and fluid motion as a function of DBD parameters remains unclear. This paper presents an experimental investigation of DBD actuators, including electrical current associated with microdischarges, plasma volume and the wall jet momentum over a range of alternating current (AC) frequencies (0.5–2 kHz) and peak-to-peak voltages up to 19.5 kV...'
 
