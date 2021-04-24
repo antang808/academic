@@ -11,7 +11,7 @@ main:
     
         
   - title: "Other Papers"
-    url: /papers/
+    url: /portfolio/
     
   - title: "CV"
     url: /cv/
@@ -19,5 +19,5 @@ main:
   - title: "Hobbies"
     url: /hobbies/
     
-  - title: "Guide"
-    url: /markdown/
+  - #title: "Guide"
+    #url: /markdown/
