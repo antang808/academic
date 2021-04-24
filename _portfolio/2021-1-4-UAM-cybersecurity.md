@@ -2,7 +2,7 @@
 title: "A Review on Cybersecurity Vulnerabilities for Urban Air Mobility"
 collection: portfolio
 
-permalink: /portfolio/2021-1-4-uam-cybersecurity
+permalink: /papers/2021-1-4-uam-cybersecurity
 
 excerpt: ' With numerous known vulnerabilities in UAVs and commercial aircraft, manufacturers have not addressed cybersecurity in the scope of urban air mobility...'
 
